@@ -1,0 +1,22 @@
+{
+  "name": "buy-me-crypto-coffee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.11",
+    "@openzeppelin/contracts": "^5.1.0",
+    "@thirdweb-dev/contracts": "^3.15.0",
+    "hardhat": "^2.22.13"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
